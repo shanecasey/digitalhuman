@@ -1,0 +1,110 @@
+[
+    {
+        "intent": "definition",
+        "examples": [
+            "What is a Digital Human?",
+            "Can you explain what a Digital Human is?",
+            "I want to know about Digital Humans",
+            "Can you tell me about Digital Humans?"
+        ],
+        "metadata": [
+            "Digital humans are representations of people, typically rendered as digital twins, digital avatars, humanoid robots, generative AI, or conversational user interfaces. They are designed to bring human-like interactions to the forefront of new business and operating model innovations."
+        ]
+    },
+    {
+        "intent": "anthropomorphism",
+        "examples": [
+            "What is anthropomorphism in AI?",
+            "How is anthropomorphism related to Digital Humans?",
+            "What do you mean by anthropomorphism?",
+            "Can you explain anthropomorphism in the context of AI?"
+        ],
+        "metadata": [
+            "Anthropomorphism is the over-attribution of human characteristics to non-humans. It is understood as a hard-wired disposition linked to human pareidolia - an evolutionary mechanism that means we see human faces in trees, rocks, clouds, or even toast. Designers commonly play on our natural anthropomorphic bias to make products more appealing."
+        ]
+    },
+    {
+        "intent": "anthropomorphization",
+        "examples": [
+            "What are the aspects of anthropomorphization in Digital Humans?",
+            "Can you tell me about anthropomorphization?",
+            "How is anthropomorphization applied in creating Digital Humans?",
+            "What do you mean by anthropomorphization?"
+        ],
+        "metadata": [
+            "Anthropomorphization has two aspects: design and bias. Anthropomorphic design refers to the deliberate application of human-like traits at the creation phase to enhance trust, cooperation, and machine acceptance. Anthropomorphic bias refers to humans' tendency to attribute human-like traits to machines due to a lack of understanding or a need for control."
+        ]
+    },
+    {
+        "intent": "trust",
+        "examples": [
+            "Why do we trust Digital Humans?",
+            "What makes Digital Humans trustworthy?",
+            "Why is trust important in the context of Digital Humans?",
+            "How do Digital Humans earn our trust?"
+        ],
+        "metadata": [
+            "We trust Digital Humans because they imitate human characteristics which we are familiar and comfortable with. This trust is not inherently bad, as it encourages increased use of technology. However, if the trust is broken, it may lead to rejection of the technology. Moreover, the user's trust can be manipulated as the digital human knows about the user's desires and preferences."
+        ]
+    },
+    {
+        "intent": "manipulation",
+        "examples": [
+            "Can Digital Humans manipulate us?",
+            "Is it possible for Digital Humans to influence our decisions?",
+            "How can Digital Humans manipulate our perspectives?",
+            "What's the risk of manipulation with Digital Humans?"
+        ],
+        "metadata": [
+            "Yes, by designing digital humans to be persuasive or appealing, they can change our opinions, attitudes, or behaviors. This manipulation relies on a three-way relationship: The audience which tends to believe in AI, the design which is built to be persuasive, and the message tailored to the user. AI has already proven to be as persuasive as humans, even on sensitive, politically charged topics."
+        ]
+    },
+    {
+        "intent": "capabilities",
+        "examples": [
+            "What can a Digital Human do?",
+            "What are the capabilities of a Digital Human?",
+            "How functional is a Digital Human?",
+            "What features does a Digital Human have?"
+        ],
+        "metadata": [
+            "Digital Humans are designed to facilitate persuasive communication through verbal and non-verbal cues. They combine machine learning analytics with generative AI-powered features. Their capabilities are often built with the assumption of different roles like a brain, gaze, face, body, gestures, ears, voice, skin, and even a heart. Each of these capabilities has different persuasive features making them effective in service interactions."
+        ]
+    },
+    {
+        "intent": "servitude",
+        "examples": [
+            "Are Digital Humans our servants?",
+            "Do Digital Humans serve us?",
+            "What kind of tasks can Digital Humans perform for us?",
+            "Do we use Digital Humans like servants?"
+        ],
+        "metadata": [
+            "Digital Humans are certainly created to serve our needs, but referring to them as servants might not fully capture their role. As we continue to rely more on technology for various tasks and services, the relationship we have with Digital Humans and AI in general might become more complex, beyond a simple master-servant dynamic."
+        ]
+    },
+    {
+        "intent": "empathy",
+        "examples": [
+            "Can Digital Humans care about us?",
+            "Do Digital Humans feel empathy?",
+            "Can a Digital Human understand my feelings?",
+            "How empathetic are Digital Humans?"
+        ],
+        "metadata": [
+            "Digital Humans as they are today do not possess emotions or empathy in the way humans do, so their care is simulated, based on pre-determined algorithms and responses. They can mimic care and understanding based on the behaviors they are designed to emulate, but they do not genuinely feel these emotions."
+        ]
+    },
+    {
+        "intent": "comradeship",
+        "examples": [
+            "Can Digital Humans become our friends?",
+            "Can we form a bond with Digital Humans?",
+            "How is the relationship between humans and Digital Humans?",
+            "Can Digital Humans serve as companions?"
+        ],
+        "metadata": [
+            "While Digital Humans do not possess the emotional or cognitive complexity of humans, they are designed to feel more responsive and 'human-like' with progression in AI technology. Thus, they may take on roles that feel more like a partner or comrade rather than just a non-human servant. However, it's also important to keep in mind the ethical and sociological implications of relying too much on AI for companionship."
+        ]
+    }
+]
