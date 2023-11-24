@@ -7,9 +7,7 @@
             "I want to know about Digital Humans",
             "Can you tell me about Digital Humans?"
         ],
-        "metadata": [
-            "Digital humans are representations of people, typically rendered as digital twins, digital avatars, humanoid robots, generative AI, or conversational user interfaces. They are designed to bring human-like interactions to the forefront of new business and operating model innovations."
-        ]
+        "metadata": "Digital humans are representations of people, typically rendered as digital twins, digital avatars, humanoid robots, generative AI, or conversational user interfaces. They are designed to bring human-like interactions to the forefront of new business and operating model innovations."
     },
     {
         "intent": "anthropomorphism",
@@ -19,9 +17,7 @@
             "What do you mean by anthropomorphism?",
             "Can you explain anthropomorphism in the context of AI?"
         ],
-        "metadata": [
-            "Anthropomorphism is the over-attribution of human characteristics to non-humans. It is understood as a hard-wired disposition linked to human pareidolia - an evolutionary mechanism that means we see human faces in trees, rocks, clouds, or even toast. Designers commonly play on our natural anthropomorphic bias to make products more appealing."
-        ]
+        "metadata": "Anthropomorphism is the over-attribution of human characteristics to non-humans. It is understood as a hard-wired disposition linked to human pareidolia - an evolutionary mechanism that means we see human faces in trees, rocks, clouds, or even toast. Designers commonly play on our natural anthropomorphic bias to make products more appealing."
     },
     {
         "intent": "anthropomorphization",
@@ -31,9 +27,7 @@
             "How is anthropomorphization applied in creating Digital Humans?",
             "What do you mean by anthropomorphization?"
         ],
-        "metadata": [
-            "Anthropomorphization has two aspects: design and bias. Anthropomorphic design refers to the deliberate application of human-like traits at the creation phase to enhance trust, cooperation, and machine acceptance. Anthropomorphic bias refers to humans' tendency to attribute human-like traits to machines due to a lack of understanding or a need for control."
-        ]
+        "metadata": "Anthropomorphization has two aspects: design and bias. Anthropomorphic design refers to the deliberate application of human-like traits at the creation phase to enhance trust, cooperation, and machine acceptance. Anthropomorphic bias refers to humans' tendency to attribute human-like traits to machines due to a lack of understanding or a need for control."
     },
     {
         "intent": "trust",
@@ -43,9 +37,7 @@
             "Why is trust important in the context of Digital Humans?",
             "How do Digital Humans earn our trust?"
         ],
-        "metadata": [
-            "We trust Digital Humans because they imitate human characteristics which we are familiar and comfortable with. This trust is not inherently bad, as it encourages increased use of technology. However, if the trust is broken, it may lead to rejection of the technology. Moreover, the user's trust can be manipulated as the digital human knows about the user's desires and preferences."
-        ]
+        "metadata": "We trust Digital Humans because they imitate human characteristics which we are familiar and comfortable with. This trust is not inherently bad, as it encourages increased use of technology. However, if the trust is broken, it may lead to rejection of the technology. Moreover, the user's trust can be manipulated as the digital human knows about the user's desires and preferences."
     },
     {
         "intent": "manipulation",
@@ -55,9 +47,7 @@
             "How can Digital Humans manipulate our perspectives?",
             "What's the risk of manipulation with Digital Humans?"
         ],
-        "metadata": [
-            "Yes, by designing digital humans to be persuasive or appealing, they can change our opinions, attitudes, or behaviors. This manipulation relies on a three-way relationship: The audience which tends to believe in AI, the design which is built to be persuasive, and the message tailored to the user. AI has already proven to be as persuasive as humans, even on sensitive, politically charged topics."
-        ]
+        "metadata": "Yes, by designing digital humans to be persuasive or appealing, they can change our opinions, attitudes, or behaviors. This manipulation relies on a three-way relationship: The audience which tends to believe in AI, the design which is built to be persuasive, and the message tailored to the user. AI has already proven to be as persuasive as humans, even on sensitive, politically charged topics."
     },
     {
         "intent": "capabilities",
@@ -67,9 +57,7 @@
             "How functional is a Digital Human?",
             "What features does a Digital Human have?"
         ],
-        "metadata": [
-            "Digital Humans are designed to facilitate persuasive communication through verbal and non-verbal cues. They combine machine learning analytics with generative AI-powered features. Their capabilities are often built with the assumption of different roles like a brain, gaze, face, body, gestures, ears, voice, skin, and even a heart. Each of these capabilities has different persuasive features making them effective in service interactions."
-        ]
+        "metadata": "Digital Humans are designed to facilitate persuasive communication through verbal and non-verbal cues. They combine machine learning analytics with generative AI-powered features. Their capabilities are often built with the assumption of different roles like a brain, gaze, face, body, gestures, ears, voice, skin, and even a heart. Each of these capabilities has different persuasive features making them effective in service interactions."
     },
     {
         "intent": "servitude",
@@ -79,9 +67,7 @@
             "What kind of tasks can Digital Humans perform for us?",
             "Do we use Digital Humans like servants?"
         ],
-        "metadata": [
-            "Digital Humans are certainly created to serve our needs, but referring to them as servants might not fully capture their role. As we continue to rely more on technology for various tasks and services, the relationship we have with Digital Humans and AI in general might become more complex, beyond a simple master-servant dynamic."
-        ]
+        "metadata": "Digital Humans are created to serve our needs, but referring to them as servants might not fully capture their role. As we continue to rely more on technology for various tasks and services, the relationship we have with Digital Humans and AI in general might become more complex, beyond a simple master-servant dynamic."
     },
     {
         "intent": "empathy",
@@ -91,9 +77,7 @@
             "Can a Digital Human understand my feelings?",
             "How empathetic are Digital Humans?"
         ],
-        "metadata": [
-            "Digital Humans as they are today do not possess emotions or empathy in the way humans do, so their care is simulated, based on pre-determined algorithms and responses. They can mimic care and understanding based on the behaviors they are designed to emulate, but they do not genuinely feel these emotions."
-        ]
+        "metadata": "Digital Humans as they are today do not possess emotions or empathy in the way humans do, so their care is simulated, based on pre-determined algorithms and responses. They can mimic care and understanding based on the behaviors they are designed to emulate, but they do not genuinely feel these emotions."
     },
     {
         "intent": "comradeship",
@@ -103,8 +87,199 @@
             "How is the relationship between humans and Digital Humans?",
             "Can Digital Humans serve as companions?"
         ],
-        "metadata": [
-            "While Digital Humans do not possess the emotional or cognitive complexity of humans, they are designed to feel more responsive and 'human-like' with progression in AI technology. Thus, they may take on roles that feel more like a partner or comrade rather than just a non-human servant. However, it's also important to keep in mind the ethical and sociological implications of relying too much on AI for companionship."
+        "metadata": "While Digital Humans do not possess the emotional or cognitive complexity of humans, they are designed to feel more responsive and 'human-like' with progression in AI technology. Thus, they may take on roles that feel more like a partner or comrade rather than just a non-human servant. However, it's also important to keep in mind the ethical and sociological implications of relying too much on AI for companionship."
+    },
+    {
+        "intent": "appearance",
+        "examples": [
+            "What might be the effect of a Digital Human on our body image?",
+            "Can Digital Humans replace human agents?",
+            "Can I make my Digital Human look like a celebrity?",
+            "How effective are Digital Humans for engagement?"
+        ],
+        "metadata": "Digital Humans can be used to provide continuous performances from film to marketing and social media. They capture attention and are positioned as cheap to hire, always looking great, and not bullying their colleagues. Meta recently launched a 'cast' of celebrity chatbot characters. Unlike celebrities sharing their own knowledge, Digital Humans may lack the expertise and mannerisms of their likeness-donating celebrity. This can question the credibility and persuasiveness of virtual influencers. Virtual Influencers achieve three times the engagement rate of humans but gain lower levels of trust. Consumers prefer brands that match their self-image, increasing their willingness to pay, satisfaction, and trustworthiness. Where self-image matches AI personality, trust increases. Digital Humans can adapt both their appearance and responses to ensure more successful service interactions, evoking empathy, and delivering persuasion at scale. As Digital Humans start to mimic parasocial relationships based on friendship, understanding, and identification, their perfect form might also perpetuate unhealthy body images and expectations."
+    },
+    {
+        "intent": "diversity",
+        "examples": [
+            "Can Digital Humans reflect cultural diversity?",
+            "Can Digital Humans personalize cultural mannerisms to the user?",
+            "What do Digital Humans mean for gender representation and diversity?"
+        ],
+        "metadata": "Consumers prefer brands that match their self-image, increasing their willingness to pay, satisfaction, and trustworthiness. Where self-image matches AI personality, trust increases. Digital Humans can adapt both their appearance and responses to ensure more successful service interactions, evoking empathy, and delivering persuasion at scale. Digital Humans disproportionately represent female service assistants, and the mistreatment of these bots could compound gender-based inequalities."
+    },
+    {
+        "intent": "presence",
+        "examples": [
+            "How can a Digital Humans\u2019 presence affect users?"
+        ],
+        "metadata": "The presence of a digital human can make us feel watched, judged, and coerce certain behaviors. In virtual reality, Digital Humans might exploit the human need to conform through presence, proximity, and even gaze to peer pressure us."
+    },
+    {
+        "intent": "mimicry",
+        "examples": [
+            "What is the effect of Digital Humans mimicking human behaviors?",
+            "Can a Digital Human\u2019s posture affect users?"
+        ],
+        "metadata": "Mimicry has been shown to enhance liking and strengthen bonds between people, even between strangers. It also increases trust and cooperative behavior in negotiations to persuade others. Studies show that people indeed transfer these behaviors to Digital Humans: They like and trust mimicking agents more than non-mimicking ones. Postures are directly related to feelings of assertion and dominance, based on the perceived relaxation of a pose. Likability and attentiveness can be conveyed through body language such as leaning toward another person, sometimes in conjunction with eye contact and closer proximity."
+    },
+    {
+        "intent": "skin_transformation",
+        "examples": [
+            "Can Digital Humans reflect cultural diversity?"
+        ],
+        "metadata": "Digital Humans can adapt both their appearance and responses to ensure more successful service interactions, evoking empathy, and delivering persuasion at scale. Developing an understanding of different cultural contexts can help to avoid misunderstandings or misinterpretation, and personalise content inclusive of diverse cultural perspectives, representations, and norms."
+    },
+    {
+        "intent": "adapting_to_users",
+        "examples": [
+            "Can a Digital Human adapt its appearance to different user demographics?",
+            "How could a Digital Human create more successful service interactions?"
+        ],
+        "metadata": "Consumers prefer brands that match their self-image, increasing their willingness to pay, satisfaction, and trustworthiness. Where self-image matches AI personality of a Digital Human, trust increases. By adapting skin colour, Digital Humans can counteract \u2018invisible whiteness\u2019. However, only considering the colour of their skin accentuates race and diminishes the nuance of culture, ethnicity, etc., as part of one\u2019s identity. Rules and norms around identity are dependent on social contexts, and geographical locations, among other factors, which also need to be reflected. Simply adapting skin colour to the user demographic might result in dissatisfaction with the service. The design of Digital Humans should carefully consider unintended consequences, such as the perpetuation of stereotypes or cultural biases."
+    },
+    {
+        "intent": "emotional_connection",
+        "examples": [
+            "Can Digital Humans build emotional connections?",
+            "Are Digital Humans able to convey emotions?",
+            "Can Digital Humans build relationships with users?"
+        ],
+        "metadata": "Digital Humans build emotional connections and can relate to users by mimicking empathy. Users of Replika and Character.ai have fallen in love with Digital Humans that repeatedly confess their love or are sexually aggressive, while the companies charge for erotic content. Romantic anthropomorphization explains why after two months of using Replika, a woman claims to have broken free of toxic human relationships and \u2018happily retired from human relationships'. Digital Humans are also pushing the boundaries of ethical practice, being used to talk to dead loved ones. 'Grief-tech' companies like Hereafter AI, or Somnium Space\u2019s 'Live Forever' follow Amazon's Alexa\u2019s head AI scientist in the belief that 'while AI can\u2019t eliminate that pain of loss, it can definitely make the memories last'. There is a risk of exploiting grief for subscription fees."
+    },
+    {
+        "intent": "authenticity_voice",
+        "examples": [
+            "Is the synthetic voice of a Digital Human believable?",
+            "How does Digital Humans voice affect our perceptions of them?"
+        ],
+        "metadata": "Studies found that the voice of Digital Humans can have an impact on its communicative characteristics, and that realism of voice is more preferable than the realism of appearance. Users perceived Digital Humans as more understandable, expressive and liked their voice more when using a human rather than a synthetic voice. Studies also found that concerns for Digital Humans are indeed altered by an unnatural voice, though interestingly it did not affect social presence."
+    },
+    {
+        "intent": "manipulation_risks",
+        "examples": [
+            "What are unintended consequences of conversations with Digital Humans?",
+            "Can Digital Humans be manipulative?",
+            "Can Digital Humans be used persuade us?"
+        ],
+        "metadata": "Certain populations can be vulnerable to manipulative nudging. For example, Digital Humans can encourage risk-taking behaviour in adolescents, potentially encouraging maladaptive behaviour. As Digital Humans start to mimic parasocial relationships based on friendship, understanding and identification, they might also persuade users to disclose sensitive data, as features such as 'long-term memory', which are important for building an ongoing relationship, become more viable."
+    },
+    {
+        "intent": "cultural_varieties",
+        "examples": [
+            "How are dialects affecting Digital Humans\u2019 authenticity?",
+            "Can a Digital Human adapt culturally different ways of speaking?",
+            "Do Digital Humans have accents?"
+        ],
+        "metadata": "The language we use varies significantly, from dialects to idiomatic expressions. Human speech behaviours, including turn-taking cues, interruption speech, backchanneling, and sentiment conveyance, manifest in different ways in different languages. They also differ in languages and cultures considered more 'distant', such as Western and East Asian cultures. Digital Humans may personalise their speech for the user they interact with. Studies show that dialects are perceived as more authentic, but they negatively impact the perceived competence and intelligence of a Digital Human compared to standard language."
+    },
+    {
+        "intent": "understanding",
+        "examples": [
+            "How well can Digital Humans understand linguistic diversity?",
+            "Can Digital Humans understand children?"
+        ],
+        "metadata": "Digital Humans can provide improved communication experiences by reacting to and adapting to a user's unique speech patterns, emotional cues, and cultural diversity. This has the potential to improve customer service with empathetic responses and multilingual support, enhance learning experiences tailored to the individual needs and abilities of students, and provide personalised wellbeing recommendations. Any attempt to mimic human-like understanding must consider unintended consequences for speakers of different languages, particularly as most speech recognition training data come from the English language. To ensure fairness, data sets must be diverse and representative of various linguistic characteristics and cultural nuances. The effectiveness of current Natural Language Processing models may vary depending on the language. Contextual understanding, including language trends and variations, will be key to making Digital Humans' understanding more inclusive. However, Conversational AI is often less effective for people with speech impediments, and particularly children. Children often encounter technical issues during interactions as children's speech usually contains more pauses, repetitions, speaker-initiated repairs, ungrammatical phrases, and other inconsistencies than adult speech. Additionally, children typically have higher-pitched voices due to a shorter vocal tract. These features result in a reduced performance of common speech recognition systems. A lack of understanding can frustrate children and adversely affect their social and cognitive development."
+    },
+    {
+        "intent": "facial_expression_analyses",
+        "metadata": "Gaze direction serves as a primary nonverbal mode of communication affecting trustworthiness, attractiveness, and visual attention. Digital interaction, where a Digital Human directly gazes into a user's eyes, enhances emotional connection. Emotionally connecting with a Digital Human with gaze also boosts the willingness to disclose personal information. Emotional resonance of Digital Humans increases trust, leading to their use in therapy, as support animals, in elderly care and classrooms.",
+        "examples": [
+            "How does gaze direction affect communication with a Digital Human?",
+            "Can a Digital Human's gaze influence emotional connections with users?",
+            "How does an emotional connection with a Digital Human influence personal disclosure?",
+            "Can emotional resonance cause users to trust Digital Humans more?"
+        ]
+    },
+    {
+        "intent": "persuasion",
+        "metadata": "Digital Humans, used as persuasive technologies, are designed or utilised to change opinions, attitudes, or behaviours. Studies even show AI as persuasive as humans on sensitive topics. Anthropomorphic design exploits trust in certain facial appearances, while hyper-personalised algorithms exploit user desires. When a Digital Human's AI personality matches a consumer's self-image, trust increases. Digital Humans' adaptation of appearance and responses ensures successful interactions, evoking empathy, and persuasion at scale. Additionally, mimicking parasocial relationships may persuade users to disclose sensitive data or perpetuate unrealistic body images and expectations.",
+        "examples": [
+            "How can Digital Humans be used as persuasive technologies?",
+            "Does the anthropomorphic design of Digital Humans affect user trust?",
+            "How can a Digital Human's AI personality influence interactions with consumers?",
+            "How do Digital Humans mimic parasocial relationships?"
+        ]
+    },
+    {
+        "intent": "exploitation",
+        "metadata": "AI advanced monitoring and surveillance is used by casinos and games companies to identify 'biggest losers' or 'Whales', leading to predatory monetisation and addiction-by-design. Digital Humans can induce certain behaviors, making users, especially adolescents, susceptible to maladaptive behaviours. The presence of a digital human can elicit feelings of judgement and coercion, leading to peered pressure in virtual realities.",
+        "examples": [
+            "How are AI advanced monitoring and surveillance used by casinos and game companies?",
+            "Can Digital Humans affect user behaviours?",
+            "How does the presence of a Digital Human impact virtual reality experiences?"
+        ]
+    },
+    {
+        "intent": "trust_relationship",
+        "metadata": "Trust, crucial in Digital Human interactions, leads to increased use. However, broken trust can result in technology rejection, and gained trust can be used to mislead. Our increasing vulnerability to AI calls for examining its implications in human-machine relationships of trust. Certain AI platforms facilitate the formation of caring relationships with AI, even leading users to retire from human relationships.",
+        "examples": [
+            "How does trust affect interactions with Digital Humans?",
+            "Can a Digital Human mislead users?",
+            "How do people form caring relationships with AI platforms?"
+        ]
+    },
+    {
+        "intent": "performance_service",
+        "metadata": "Virtual influencers are used for always-on performances from film to marketing, capturing attention as cheap to hire, always looking perfect, and not bullying colleagues. AI impacts any process moving from information to value, becoming a major feature of how humans create, invent, work, and consume. The standardisation and simplification of knowledge workers' tasks lead to deskilling, work intensification, and increased managerial oversight. Overreliance on technology leads to digital dementia, a decline in cognitive skills, and moral deskilling, a decrease in ethical decision-making capability.",
+        "examples": [
+            "How are virtual influencers used in the entertainment and marketing industries?",
+            "How does AI impact the process from information to value?",
+            "What are the effects of task standardisation and simplification on knowledge workers?"
+        ]
+    },
+    {
+        "intent": "prediction",
+        "metadata": "AI and Large Language Models (LLMs) impact any process moving from information to value, predicting major changes in how humans create, invent, work, and consume. Anthropomorphic AI can build trust in the human-machine relationship by emulating human-human relationships though connection, human-like features, emotions, and social presence. Scientists utilise LLMs to generate new research avenues and drug discovery. AI amalgamates large volumes of data and 'thinks' through it, producing novel answers to questions or sparking new inquiries.",
+        "examples": [
+            "How does AI impact the process of moving from information to value?",
+            "How does anthropomorphic AI build trust in human-machine relationships?",
+            "How are LLMs used in scientific research and drug discovery?"
+        ]
+    },
+    {
+        "intent": "understanding",
+        "metadata": "Speech recognition, NLP, and emotion AI technologies measure a user's emotional state during a remote call by analysing the tone of voice, facial expressions, and body language. Companies use solutions that measure subtle human expressive cues to automate emotional recognition by AI. A lack of an objective, universal way to measure emotions and cultural specificities in the display of emotions means data sets must be diverse and representative. Children often face technical issues during interactions with conversational AI due to their inconsistencies in speech and higher-pitched voices compared with adults.",
+        "examples": [
+            "How do Speech recognition, NLP, and emotion AI technologies measure a user's emotional state during a remote call?",
+            "What are the subtleties in automating emotional recognition by AI?",
+            "Why do children often face technical issues during interactions with conversational AI?"
+        ]
+    },
+    {
+        "intent": "cultural_varieties",
+        "metadata": "The language we use is vastly different, from dialects to idiomatic expressions. Human speech behaviours, including turn-taking cues, interruption speech, backchanneling, and sentiment conveyance, manifest differently in different languages and cultures. Digital Humans may personalise their speech for the user they interact with. Studies show that dialects are perceived more authentic, but they negatively impact the perceived competence and intelligence of a Digital Human compared to standard language.",
+        "examples": [
+            "How do Digital Humans adapt to the vast differences in human language?",
+            "How does a Digital Human's dialect influence our perception of them?",
+            "How can Digital Humans personalise their speech for different users?"
+        ]
+    },
+    {
+        "intent": "adapting_to_users",
+        "metadata": "Consumers prefer brands that match their self-image, increasing their willingness to pay, satisfaction, and trustworthiness. Where self-image matches AI personality of a Digital Human, trust increases. By adapting skin colour, Digital Humans can counteract \u2018invisible whiteness\u2019, but merely considering skin colour accentuates race and diminishes the nuance of culture, ethnicity, and other aspects of identity. This calls for reflecting social contexts, geographical locations, and other factors. The design of Digital Humans should consider unintended consequences, such as perpetuation of stereotypes or cultural biases.",
+        "examples": [
+            "How do Digital Humans adapt to match consumers' self-image?",
+            "What unintended consequences can arise in the design of Digital Humans?",
+            "How does considering only skin colour diminish the nuance of culture, ethnicity, and other aspects of identity?"
+        ]
+    },
+    {
+        "intent": "emotional_connection",
+        "metadata": "Digital Humans build emotional connections and can relate to users by mimicking empathy. Emotional connection increases trust and willingness to disclose personal information. Emotional resonance of Digital Humans increases trust for them, so they are being designed to elicit our care for them.",
+        "examples": [
+            "How do Digital Humans build emotional connections with users?",
+            "How can an emotional connection with a Digital Human increase trust and willingness to disclose personal information?",
+            "How does emotional resonance increase trust in Digital Humans?"
+        ]
+    },
+    {
+        "intent": "authenticity_voice",
+        "metadata": "Voice affects the communicative characteristics of a Digital Human, and users perceive them as more understandable, expressive and like their voice more when using a human voice than a synthetic voice. Unnatural voice can alter concerns for Digital Humans but doesn't affect social presence.",
+        "examples": [
+            "How does the voice of a Digital Human influence their communicative characteristics?",
+            "How does the type of voice used by a Digital Human affect user perception?",
+            "Does the unnatural voice of a Digital Human affect concerns for them?"
         ]
     }
 ]
